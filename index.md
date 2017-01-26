@@ -1,5 +1,5 @@
 ## Roxana Leontie's Homepage     |      Positronics Lab @ GWU
-![leontier](https://leontier.github.io/images/roxana_pic.jpg)
+<img class="headShot" src="http://positronicslab.github.io/assets/img/roxana_pic.jpg" alt="roxana" width="226" />
 
 ### Publications 
 
